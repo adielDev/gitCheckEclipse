@@ -9,5 +9,6 @@ public class Mian {
 		System.out.println("hello num 4!!!");
 		System.out.println("hello num 5!!!");
 		System.out.println("hello num 6!!!");
+		System.out.println("hello num 7!!!");
 	}
 }
