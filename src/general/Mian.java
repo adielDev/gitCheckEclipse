@@ -13,5 +13,6 @@ public class Mian {
 		System.out.println("hello github!!!");
 		System.out.println("hello github num 2 !!!");
 		System.out.println("hello github num 3 !!!");
+		System.out.println("hello github from clone!!!");
 	}
 }
